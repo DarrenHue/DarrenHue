@@ -42,31 +42,31 @@
 
 **Contact Me:**
 
-![Telegram Badge](https://img.shields.io/badge/-Ihsan-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/RxyMX)
-![Gmail Badge](https://img.shields.io/badge/-ihsanzcoki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ihsanzcoki@gmail.com)
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40AnimeGrupIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DGrup_Anime_Chat&longCache=true%22)](https://t.me/Grup_Anime_Chat)
+![Telegram Badge](https://img.shields.io/badge/-Lutfi-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/DarrenWalters)
+![Gmail Badge](https://img.shields.io/badge/-lutfi.faridd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lutfi.faridd@gmail.com)
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40AnimeGrupIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DGrup_Anime_Chat&longCache=true%22)](https://t.me/DarrenWalters)
 
 ##  🎶 **Currently Playing**
-[![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
+[![Spotify](https://spotify.com/)](https://spotify.com/)
 
 
 ##  🐙 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=UserLazy&show_icons=true&theme=radical)](https://github.com/UserLazy)
+[![github stats](https://github-readme-stats.vercel.app/api?username=DarrenHue&show_icons=true&theme=radical)](https://github.com/DarrenHue)
 
-![GitHub followers](https://img.shields.io/github/followers/UserLazy?color=aqua&label=Followers&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/UserLazy?affiliations=OWNER&color=aqua&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/DarrenHue?color=aqua&label=Followers&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/DarrenHue?affiliations=OWNER&color=aqua&style=for-the-badge)
 
 ## 🌐 **Top Languages**
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UserLazy&show_icons=true&theme=radical&layout=compact)](https://github.com/Scroxy-X)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenHue&show_icons=true&theme=radical&layout=compact)](https://github.com/DarrenHue)
 
 
 ## 💰 **Donations & Support**
 
 - **Buy me a Ko-fi:**
 
-    <a href='https://trakteer.id/Scroxy' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href='https://trakteer.id/lutfifarid' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 - **Support me by Signing up on Heroku:**
 
@@ -77,22 +77,9 @@
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 <details>
 <!-- anilist_start-->
- • <a href="https://anilist.co/anime/16498">Shingeki no Kyojin<a><br>
- • <a href="https://anilist.co/anime/21087">One Punch Man<a><br>
- • <a href="https://anilist.co/anime/97668">One Punch Man 2<a><br>
- • <a href="https://anilist.co/anime/21416">One Punch Man OVA<a><br>
- • <a href="https://anilist.co/anime/21355">Re:Zero kara Hajimeru Isekai Seikatsu<a><br>
- • <a href="https://anilist.co/anime/105333">Dr. STONE<a><br>
- • <a href="https://anilist.co/anime/101759">Yakusoku no Neverland<a><br>
- • <a href="https://anilist.co/anime/108725">Yakusoku no Neverland 2<a><br>
- • <a href="https://anilist.co/anime/20853">Aldnoah.Zero 2<a><br>
- • <a href="https://anilist.co/anime/20632">Aldnoah.Zero<a><br>
+ • <a href="https://anilist.co/anime/16498">Shigatsu Kimi no Uso<a><br>
+ • <a href="https://anilist.co/anime/21087">Darling in the Franxx<a><br>
  • <a href="https://anilist.co/anime/101351">Happy Sugar Life<a><br>
- • <a href="https://anilist.co/anime/226">Elfen Lied<a><br>
- • <a href="https://anilist.co/anime/19603">Fate/stay night: Unlimited Blade Works<a><br>
- • <a href="https://anilist.co/anime/20792">Fate/stay night: Unlimited Blade Works 2nd Season<a><br>
- • <a href="https://anilist.co/anime/356">Fate/stay night<a><br>
- • <a href="https://anilist.co/anime/20791">Fate/stay night [Heaven's Feel] I. presage flower<a><br>
 <!-- anilist_end-->
 </details>
 
