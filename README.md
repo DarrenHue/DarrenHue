@@ -37,7 +37,7 @@
 **Hobbies :**
 
 [![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://spotify.com)
-[![PhotoShop](https://img.shields.io/badge/-PhotoShop-%23007ACC?style=flat-square&logo=Adobe)](https://www.facebook.com.)
+[![PhotoShop](https://img.shields.io/badge/-Facebook-%23007ACC?style=flat-square&logo=facebook)](https://www.facebook.com.)
 
 
 **Contact Me:**
