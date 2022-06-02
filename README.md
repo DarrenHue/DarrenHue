@@ -44,7 +44,7 @@
 
 ![Telegram Badge](https://img.shields.io/badge/-Lutfi-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/DarrenWalters)
 ![Gmail Badge](https://img.shields.io/badge/-lutfi.faridd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lutfi.faridd@gmail.com)
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40SyncthizID&labelColor=282c34&suffix=)](https://t.me/SyncthizID)
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40SyncthizID&labelColor=282c34&)](https://t.me/SyncthizID)
 
 ##  🎶 **Currently Playing**
 [![Spotify](https://spotify.com/)](https://spotify.com/)
