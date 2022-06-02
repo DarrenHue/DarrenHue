@@ -2,18 +2,18 @@
 
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
-- **🔥 [Pyrogram](https://pyrogram.org) and 🔥 [Telethon](https://telethon.org)**
-- **I put mostly of my focus on [Python](https://python.org)**
-- **My Everyday usage is based on: `.py` `.php` `.sh`**
+- **🔥 [Blogger](https://blogger.com) and 🔥 [Wordpress](https://wordpress.com)**
+- **I put mostly of my focus on [PHP](https://php.net)**
+- **My Everyday usage is based on: `.html` `.php` `.xml`**
 
 ### Connect with me:
-[<img align="left" alt="Ihsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ihsan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Lutfi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Lutfi | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
 
-[instagram]: https://instagram.com/ihsan_rxymx
-[telegram]: https://t.me/RxyMX
+[instagram]: https://instagram.com/im.lutfifarid
+[telegram]: https://t.me/DarrenWalters
 
 ## 👦 **About me**:
 
