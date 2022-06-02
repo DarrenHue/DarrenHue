@@ -23,7 +23,7 @@
 
 **Languages I am Learning :**
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)](https://nodejs.org)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)](https://javascript.com)
 
 **My Tech Stack I use Everyday:**
 
